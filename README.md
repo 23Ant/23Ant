@@ -13,13 +13,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Ant&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Antonio-Ansible" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/ansible.svg">
+  <img align="center" alt="Antonio-Linux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg">
+  <img align="center" alt="Antonio-Nginx" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg">
+  <img align="center" alt="Antonio-Docker" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg">
+  <img align="center" alt="Antonio-Kubernets" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg">
+  <img align="center" alt="Antonio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Antonio-Jenkis" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg">
   <img align="right" alt="Antonio-Kakashi" src="https://i0.wp.com/pa1.narvii.com/7115/ec0e6c30a1f0c89cc27b868edc287be863313815r1-500-281_128.gif">
 </div>
   
