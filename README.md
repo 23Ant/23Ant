@@ -13,8 +13,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Ant&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Antonio-Ansible" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/ansible.svg">
-  <img align="center" alt="Antonio-Linux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg">
+  <img align="center" alt="Antonio-Ansible" height="30" width="40" src="https://www.svgrepo.com/show/305708/ansible.svg">
+  <img align="center" alt="Antonio-Linux" height="30" width="40" src="https://www.svgrepo.com/show/184138/linux.svg">
   <img align="center" alt="Antonio-Nginx" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg">
   <img align="center" alt="Antonio-Docker" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg">
   <img align="center" alt="Antonio-Kubernets" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg">
