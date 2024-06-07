@@ -23,7 +23,7 @@
 
 🐉 Analista DevOps | SRE | Cloud <br>
 💚 AWS Certificated: 1 <br>
-🐍 Tecnólogo em Redes de Computadores <br>
+🐍 Tecnólogo em Redes de Computadores - Faculdade de Tecnologia Osasco <br>
 🦖 Aprendendo: `GitOps` `OpenTelemetry` `Kubefirst` `Golang` `AWS DevOps Engineer certification`
 
 <br> 
