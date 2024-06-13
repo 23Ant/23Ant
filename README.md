@@ -1,5 +1,5 @@
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ad6f&height=120&section=header"/>
 <div align="center">
   <h3 style="color:#FF69B4; font-family:Cursive;">Olá, sou o Antonio 🐊</h3>
   <p align="right">
